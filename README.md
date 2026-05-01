@@ -1,16 +1,21 @@
-## Hi there 👋
+## Johan Lager
+Attending a .NET focused software development program at a vocational school in Sweden.
 
-<!--
-**fornkatt/fornkatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently working on
+[**Restall**](https://github.com/fornkatt/Restall) | A ReShade and RenoDX manager for Windows and Linux.
 
-Here are some ideas to get you started:
+### Languages & Tools
+![.NET](https://img.shields.io/badge/.NET-black?style=flat-square&logo=dotnet)
+![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust)
+![Blazor](https://img.shields.io/badge/Blazor-black?style=flat-square&logo=blazor)
+![JavaScript](https://img.shields.io/badge/JS-black?style=flat-square&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css)
+![SASS](https://img.shields.io/badge/SASS-black?style=flat-square&logo=sass)
+![Docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### Currently learning
+- Deepening my knowledge of **Rust** and planning to do a larger scale project in the language to further learn.
+- Continuing my journey in the **.NET** ecosystem. Currently developing an interactive web app using **Blazor** as a school assignment where we will deploy it on **Azure**.
