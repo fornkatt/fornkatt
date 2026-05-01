@@ -1,23 +1,26 @@
 ## Johan Lager
-Attending a .NET focused software development program at a vocational school in Sweden.
+Hi, my name is Johan also known as Fornkatt and welcome to my profile! I love all things tech and recently got into programming by attending a .NET focused software development program at a vocational school in Sweden.
+
+I hope you find my projects interesting and find some use for them!
 
 ### Currently working on
 [**Restall**](https://github.com/fornkatt/Restall) | A ReShade and RenoDX manager for Windows and Linux.
 
 ### Languages & Tools
-![.NET](https://img.shields.io/badge/.NET-gray?style=flat-square&logo=dotnet)
+![C#](https://img.shields.io/badge/C%23-gray?style=flat-square)
 ![Rust](https://img.shields.io/badge/Rust-gray?style=flat-square&logo=rust)
-![Avalonia](https://img.shields.io/badge/Avalonia-gray?logo=avaloniaui)
-![MongoDB](https://img.shields.io/badge/MongoDB-gray?logo=mongodb)
-![Blazor](https://img.shields.io/badge/Blazor-gray?style=flat-square&logo=blazor)
+![SQL](https://img.shields.io/badge/SQL-gray?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JS-gray?style=flat-square&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-gray?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-gray?style=flat-square&logo=css)
 ![SASS](https://img.shields.io/badge/SASS-gray?style=flat-square&logo=sass)
+![.NET](https://img.shields.io/badge/.NET-gray?style=flat-square&logo=dotnet)
+![Avalonia](https://img.shields.io/badge/Avalonia-gray?logo=avaloniaui)
+![MongoDB](https://img.shields.io/badge/MongoDB-gray?logo=mongodb)
+![Blazor](https://img.shields.io/badge/Blazor-gray?style=flat-square&logo=blazor)
 ![Docker](https://img.shields.io/badge/Docker-gray?style=flat-square&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-gray?style=flat-square&logo=linux)
 ![Jetbrains](https://img.shields.io/badge/Jetbrains-gray?style=flat-square&logo=jetbrains)
-![SQL](https://img.shields.io/badge/SQL-gray?style=flat-square)
 
 ---
 
